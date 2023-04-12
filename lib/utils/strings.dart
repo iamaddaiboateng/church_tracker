@@ -1,0 +1,15 @@
+const String kServices = 'Services';
+const String kRequired = 'Require';
+const String kLocation = 'Location';
+const String kName = 'Name';
+const String kContact = 'Contact';
+const String kMembersTotal = 'membersTotal';
+const String kCounter = 'counter';
+const String kServiceDate = 'Service Date';
+const String kReadableTime = 'readableTime';
+const String kActualTime = 'actualTime';
+const String kHomePage = 'Home Page';
+const String kNoMembers = 'No Members Added';
+const String kNoServiceAdded = 'No Service Added';
+const String kNoServiceDateAdded = 'No Service Date found';
+const String kNewMembers = 'new_members';
